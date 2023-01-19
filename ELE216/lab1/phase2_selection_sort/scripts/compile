@@ -1,0 +1,5 @@
+#!/bin/sh
+
+clear
+
+cd ELE216/lab1/phase2_selection/src gcc donnees.c tri.c main.c cd ELE216/lab1/phase2_selection/bin bin.out
