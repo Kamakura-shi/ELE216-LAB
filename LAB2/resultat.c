@@ -94,9 +94,9 @@ void set_titleType(t_titre critere, char* titleType) {
 // }
 /*
     char* une_chaine;
-    strcpy(une_chaine, "ma string");
+    strcpy(une_chaine, "ma chaine");
     set_titleType(critere,une_chaine (987678667)); //adresse
-    get_titleType(critere);      //donne ma chaine de charactere
+    get_titleType(critere);      //donne ma chaine
     strcpy(une_chaine, "lHsUf");
     get_titleType(critere);          //donne une erreur: lHsUf
 */
